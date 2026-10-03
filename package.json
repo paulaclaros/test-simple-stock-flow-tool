@@ -1,0 +1,13 @@
+{
+  "name": "test-simple-stock-flow-tool",
+  "version": "1.0.0",
+  "description": "Herramienta de sembrado de datos de demostración y verificación E2E para Simple Stock Flow",
+  "main": "seed.js",
+  "type": "module",
+  "scripts": {
+    "seed": "node seed.js"
+  },
+  "keywords": ["seeder", "e2e", "sdd"],
+  "author": "Paula Claros",
+  "license": "MIT"
+}
